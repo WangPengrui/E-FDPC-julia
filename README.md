@@ -1,7 +1,7 @@
 # E-FDPC-julia
 Julia implementation of Enhanced fast density-peak-based clustering (E-FDPC) algorithm
 
-## Source code location
+## Source code location（MATLAB）
 [senjia1980](https://github.com/senjia1980) -> [E-FDPC](https://github.com/senjia1980/EFDPC)
 > Jia S, Tang G, Zhu J, et al. A novel ranking-based clustering approach for hyperspectral band selection[J]. IEEE Transactions on Geoscience and Remote Sensing, 2015, 54(1): 88-102.
 
